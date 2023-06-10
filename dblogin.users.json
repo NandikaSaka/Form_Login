@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6484772b80452bcee1045f35"
+  },
+  "username": "Nandika",
+  "password": "Nandika",
+  "email": "nandika@nandika.com",
+  "alamat": "jalan neptunus",
+  "nomor_telepon": "08814650978",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "648482f780452bcee1045f36"
+  },
+  "username": "Ika",
+  "password": "Ika",
+  "email": "ika@ika.com",
+  "alamat": "jalan neptunus",
+  "nomor_telepon": "082247402822",
+  "role": "user"
+}]
